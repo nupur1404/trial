@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/nupur1404">
+                    <img src="https://img.freepik.com/premium-vector/young-man-avatar-character-due-avatar-man-vector-icon-cartoon-illustration_1186924-4438.jpg?semt=ais_hybrid&w=740&q=80" width="100px;"
+                        alt="Nupur" />
+                    <br />
+                    <sub>
+                        <b>Nupur</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
